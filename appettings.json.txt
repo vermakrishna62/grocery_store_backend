@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=DESKTOP-F0ROMH2\\SQLEXPRESS;Database=grocery_store;TrustServerCertificate=True;Trusted_Connection=True;"
+
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
